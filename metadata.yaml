@@ -1,5 +1,8 @@
 _repo: The-Doctor-s-Secret-Journal_57817
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57817-h/images/cover.jpg
 creator:
   author:
     agent_name: Morison, Daniel
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '49620'
     url: http://www.gutenberg.org/2009/agents/49620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57817#The-Doctor-s-Secret-Journal
 gutenberg_issued: '2018-08-30'
 gutenberg_type: Text
 identifiers:
