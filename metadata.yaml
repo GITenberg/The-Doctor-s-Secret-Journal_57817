@@ -1,0 +1,24 @@
+_repo: The-Doctor-s-Secret-Journal_57817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morison, Daniel
+    gutenberg_agent_id: '49619'
+    url: http://www.gutenberg.org/2009/agents/49619
+  editor:
+    agent_name: May, George Smith
+    gutenberg_agent_id: '49620'
+    url: http://www.gutenberg.org/2009/agents/49620
+description: ''
+gutenberg_issued: '2018-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Doctor's Secret Journal
+url: http://www.gutenberg.org/ebooks/57817
